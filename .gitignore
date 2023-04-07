@@ -1,0 +1,9 @@
+# cache
+__pycache__
+
+# builds
+dist
+*.egg-info
+
+# virtual environment
+venv
